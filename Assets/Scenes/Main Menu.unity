@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 266370296}
   - component: {fileID: 266370295}
   m_Layer: 0
-  m_Name: __mass_effect_drawn_by_ben_lo__33442d5008797328b4ebf1e528b26468_0
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
